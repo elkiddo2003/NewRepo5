@@ -7,15 +7,15 @@ This readme file provides instructions on how to compile and run the Recipe and 
 **Requirements:**
 
 * Microsoft Visual Studio (compatible with .NET Framework)
-* .NET Framework (version required by your project)
+* .NET Framework (4.7)
 
 **Instructions:**
 
 1. **Clone the Repository:**
-   - Clone this repository (replace with your repository URL) using Git:
+   - Clone this repository (https://github.com/elkiddo2003/NewRepo5.git) using Git:
 
      ```bash
-     git clone https://<your_github_username>@github.com/<your_username>/recipe-and-meal-manager.git
+     git clone https://github.com/elkiddo2003/NewRepo5.git
      ```
 
 2. **Open in Visual Studio:**
